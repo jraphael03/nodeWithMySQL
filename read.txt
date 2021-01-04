@@ -1,0 +1,4 @@
+npm init
+npm install --save mysql express        //using save installs the file as a dependency
+
+
